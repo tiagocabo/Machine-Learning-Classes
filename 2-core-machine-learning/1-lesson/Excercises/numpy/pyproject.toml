@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "m8_prep"
+version = "0.1.0"
+description = "Numpy exercises env"
+authors = ["Tiago Cabo"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.22.3"
+pandas = "^1.4.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
