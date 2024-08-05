@@ -1,1 +1,2 @@
+/Users/tiago.cabo/Documents/github-repos/Machine-Learning-Classes/2-core-machine-learning/3-supervised-learning-advanced/unbalanced/creditcard.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
